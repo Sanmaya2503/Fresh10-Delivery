@@ -143,7 +143,7 @@ Because IDs, statuses, and vocabulary already match the Customer App and Admin D
 ## Delivery module — live backend integration
 
 The delivery lifecycle is no longer demo data. It is served by
-`https://fresh15-main.onrender.com`:
+`https://fresh10-backend.onrender.com`:
 
 | Purpose | Endpoint |
 | --- | --- |
@@ -173,7 +173,7 @@ unavailable rather than faked.
 
 ## Notifications — live backend integration
 
-Notifications are served by `https://fresh15-main.onrender.com`:
+Notifications are served by `https://fresh10-backend.onrender.com`:
 
 | Purpose | Endpoint |
 | --- | --- |

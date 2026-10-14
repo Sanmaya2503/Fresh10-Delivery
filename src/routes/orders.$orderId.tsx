@@ -263,7 +263,7 @@ function OrderDetail({ delivery }: { delivery: Delivery }) {
             destination={destination ?? delivery.destination}
             deliveryId={delivery._id}
             token={token}
-            routeBaseUrl="https://fresh15-main.onrender.com"
+            routeBaseUrl="https://fresh10-backend.onrender.com"
             partnerName="Your live location"
             orderStatus={DELIVERY_STATUS_LABEL[status]}
           />

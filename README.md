@@ -41,7 +41,7 @@ Change the CSS variables, gradients, shadows, and motion tokens there instead of
 ## API
 
 ```env
-NEXT_PUBLIC_API_BASE_URL=https://fresh15-main.onrender.com
+NEXT_PUBLIC_API_BASE_URL=https://fresh10-backend.onrender.com
 ```
 
 The default value points to the existing Fresh15 backend so the migrated app remains usable without extra configuration.

@@ -26,5 +26,5 @@ The package therefore does **not** claim a completed production build from this 
 Copy `.env.example` to `.env.local` when a non-default API host is required:
 
 ```env
-NEXT_PUBLIC_API_BASE_URL=https://fresh15-main.onrender.com
+NEXT_PUBLIC_API_BASE_URL=https://fresh10-backend.onrender.com
 ```

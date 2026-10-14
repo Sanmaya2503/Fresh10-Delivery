@@ -1,6 +1,6 @@
 const API_BASE =
   process.env.NEXT_PUBLIC_API_BASE_URL ||
-  "https://fresh15-main.onrender.com";
+  "https://fresh10-backend.onrender.com";
 
 export class ApiError extends Error {
   constructor(
